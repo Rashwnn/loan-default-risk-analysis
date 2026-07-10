@@ -55,6 +55,8 @@ Interactive Tableau dashboard: **https://public.tableau.com/app/profile/rashawn.
 
 **Python notebook:** [analysis.ipynb](analysis.ipynb)
 
+**SQL queries:** [queries.sql](queries.sql)
+
 ## Methodology
 
 1. **SQL** — Cleaned and explored the dataset, answered all 7 business questions using CASE WHEN binning, GROUP BY aggregation, and conditional SUM logic for the dollar-impact analysis
