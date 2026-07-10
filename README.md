@@ -48,7 +48,7 @@ loan-default-risk-analysis/
 
 Interactive Tableau dashboard: **https://public.tableau.com/app/profile/rashawn.hunt/viz/LoanDefaultRiskAnalysisDashBoard/LoanDefaultRiskAnalysisDashboard**
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](images/dashboard.png)
 
 ## Methodology
 
