@@ -77,4 +77,4 @@ This is a Kaggle competition dataset, not real historical lending data. It appea
 ## Author
 
 Rashawn Hunt
-[LinkedIn] · [Portfolio]
+[LinkedIn]
