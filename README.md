@@ -39,7 +39,7 @@ loan-default-risk-analysis/
 ├── python/
 │   └── analysis.ipynb        Correlation, chi-square test, logistic regression
 ├── excel/
-│   └── loan_analysis.xlsx    XLOOKUP, Pivot Tables, COUNTIFS/AVERAGEIFS
+│   └── Loan_analysis.xlsx    XLOOKUP, Pivot Tables, COUNTIFS/AVERAGEIFS
 └── images/
     └── Dashboard_screenshot.png
 ```
@@ -49,6 +49,9 @@ loan-default-risk-analysis/
 Interactive Tableau dashboard: **https://public.tableau.com/app/profile/rashawn.hunt/viz/LoanDefaultRiskAnalysisDashBoard/LoanDefaultRiskAnalysisDashboard**
 
 ![Dashboard Screenshot](Dashboard2.png)
+
+**Excel workbook:** [Loan_analysis.xlsx](Loan_analysis.xlsx)
+*Note: this workbook uses a representative sample of the dataset due to file size constraints. Full results across all 255,347 rows are validated via SQL and Python.*
 
 ## Methodology
 
