@@ -41,14 +41,14 @@ loan-default-risk-analysis/
 ├── excel/
 │   └── loan_analysis.xlsx    XLOOKUP, Pivot Tables, COUNTIFS/AVERAGEIFS
 └── images/
-    └── dashboard_screenshot.png
+    └── Dashboard_screenshot.png
 ```
 
 ## Dashboard
 
 Interactive Tableau dashboard: **https://public.tableau.com/app/profile/rashawn.hunt/viz/LoanDefaultRiskAnalysisDashBoard/LoanDefaultRiskAnalysisDashboard**
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ## Methodology
 
