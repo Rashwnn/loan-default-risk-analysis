@@ -53,6 +53,8 @@ Interactive Tableau dashboard: **https://public.tableau.com/app/profile/rashawn.
 **Excel workbook:** [Loan_analysis.xlsx](Loan_analysis.xlsx)
 *Note: this workbook uses a representative sample of the dataset due to file size constraints. Full results across all 255,347 rows are validated via SQL and Python.*
 
+**Python notebook:** [analysis.ipynb](analysis.ipynb)
+
 ## Methodology
 
 1. **SQL** — Cleaned and explored the dataset, answered all 7 business questions using CASE WHEN binning, GROUP BY aggregation, and conditional SUM logic for the dollar-impact analysis
